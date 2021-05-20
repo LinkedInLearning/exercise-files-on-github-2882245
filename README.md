@@ -9,7 +9,9 @@ A LinkedIn Learning membership gives you access to an incredibly rich resource: 
 This repository contains no exercise files, but simply points to the other repos used in the course:
 
 [vs-adv-debug-2823390](https://github.com/LinkedInLearning/vs-adv-debug-2823390). 
+
 [react-interface-2880067](https://github.com/LinkedInLearning/react-interface-2880067). 
+
 [learning-go-2875237](https://github.com/LinkedInLearning/learning-go-2875237). 
 
 **David Gassner**
