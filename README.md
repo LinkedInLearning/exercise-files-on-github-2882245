@@ -16,13 +16,13 @@ https://github.com/LinkedInLearning/learning-go-2875237.
 
 _Senior Staff Instructor at LinkedIn Learning_
 
-Check out my other courses on [LinkedIn Learning]https://www.linkedin.com/learning/instructors/david-gassner?u=104.
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/david-gassner?u=104).
 
 **Walt Ritscher**
 
 _Staff Instructor at LinkedIn Learning_
 
-Check out my other courses on [LinkedIn Learning]https://www.linkedin.com/learning/instructors/walt-ritscher?u=104.
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/walt-ritscher?u=104).
 
 
 **Ray Villalobos**
