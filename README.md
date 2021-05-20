@@ -20,7 +20,7 @@ Check out my other courses on [LinkedIn Learning] https://www.linkedin.com/learn
 
 **Walt Ritscher**
 
-_ Staff Instructor at LinkedIn Learning_
+_Staff Instructor at LinkedIn Learning_
 
 Check out my other courses on [LinkedIn Learning] https://www.linkedin.com/learning/instructors/walt-ritscher?u=104.
 
