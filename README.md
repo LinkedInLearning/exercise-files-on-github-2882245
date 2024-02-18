@@ -1,42 +1,28 @@
-# Working with LinkedIn Learning Exercise Files on GitHub
-This is the repository for the LinkedIn Learning course Working with LinkedIn Learning Exercise Files on GitHub. The full course is available from [LinkedIn Learning][lil-course-url].
+# Learning Terraform
+This is the repository for the LinkedIn Learning course Learning Terraform. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Learning Terraform][lil-thumbnail-url] 
 
-A LinkedIn Learning membership gives you access to an incredibly rich resource: exercise files that allow you to follow along with the very same project as the instructor. For many of our technology courses, that project lives in GitHub. This course shows how to access GitHub exercise files—from the command line as well as from several popular IDEs, including Visual Studio and Visual Studio Code, IntelliJ IDEA, and GitHub Desktop. Learn how to locate the repository, clone it to your computer, and work with branches. Plus, learn how to save, commit, and roll back branch changes with Git commands. By the end of the course, you’ll have everything you need to start working with these valuable assets.
+Terraform is a DevOps tool for declarative infrastructure—infrastructure as code. It simplifies and accelerates the configuration of cloud-based environments. In this course, instructor Josh Samuelson shows how to use Terraform to configure infrastructure and manage resources with Amazon Web Services (AWS). After demonstrating how to set up AWS for Terraform, Josh covers how Terraform manages your infrastructure, as well as how to use core Terraform commands. He also delves into more advanced topics, including how to leverage code modules from the Terraform registry and how to create your own modules. Upon wrapping up this course, you'll have the knowledge you need to efficiently define and manage infrastructure with this powerful tool.
 
+_See the readme file in the main branch for updated instructions and information._
 ## Instructions
-This repository contains no exercise files, but simply points to the other repos used in the course:
+This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
-[vs-adv-debug-2823390](https://github.com/LinkedInLearning/vs-adv-debug-2823390). 
+## Branches
+The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. The code is built sequentally so each branch contains the completed code for that particular video and the starting code can be found in the previous video's branch.
 
-[react-interface-2880067](https://github.com/LinkedInLearning/react-interface-2880067). 
+The `main` branch contains the starting code for the course and the `final` branch contains the completed code.
 
-[learning-go-2875237](https://github.com/LinkedInLearning/learning-go-2875237). 
+### Instructor
 
-**David Gassner**
+Josh Samuelson 
+                            
+DevOps Engineer
 
-_Senior Staff Instructor at LinkedIn Learning_
+                            
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/david-gassner?u=104).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/josh-samuelson).
 
-**Walt Ritscher**
-
-_Staff Instructor at LinkedIn Learning_
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/walt-ritscher?u=104).
-
-
-**Ray Villalobos**
-
-_Senior Staff Instructor at LinkedIn Learning_
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos?u=104).
-
-
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/working-with-linkedin-learning-exercise-files-on-github?u=104
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2882245/2882245-1621274914030-16x9.jpg
-
+[lil-course-url]: https://www.linkedin.com/learning/learning-terraform-15575129?dApp=59033956
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3087701/3087701-1666200696363-16x9.jpg
